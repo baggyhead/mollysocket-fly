@@ -1,4 +1,4 @@
-## Getting Molly with UnifiedPush working
+## Getting Molly with UnifiedPush working##
 
 Here are the steps required to get things working. If you want to understand the big picture of what
 we're setting up, check out [What we're building and why](WHAT_WHY.md).
